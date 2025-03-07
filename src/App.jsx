@@ -1,4 +1,4 @@
-import SideBar from "./assets/components/Sidebar"
+import SideBar from "./assets/components/SideBar"
 import Main from "./assets/components/Main"
 import Footer from "./assets/components/Footer"
 import { useEffect, useState } from "react"
